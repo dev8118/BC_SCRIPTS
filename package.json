@@ -1,0 +1,14 @@
+{
+  "name": "bcscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Coco01(0.243%-12).js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^9.4.3"
+  }
+}
